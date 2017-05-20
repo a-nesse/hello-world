@@ -1,2 +1,3 @@
 # hello-world
-Sky Cake
+
+I want to write good code and make interesting stuff.
